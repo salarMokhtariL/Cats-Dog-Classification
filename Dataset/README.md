@@ -1,2 +1,2 @@
-# Cats and Dog Dataset
+# Cats and Dogs Dataset
 
