@@ -1,1 +1,4 @@
-# Cats-Dog-Classification-
+# Cat and Dog classification
+
+> By Salar Mokhtari Laleh
+
